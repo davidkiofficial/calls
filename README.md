@@ -18,12 +18,12 @@ Follow these steps to set up and run the project:
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/esplanadeai/11labs_Outbound.git
+git clone https://github.com/davidkiofficial/calls
 ```
 
 ### 2. Navigate to the Project Directory
 ```bash
-cd 11labs_Outbound
+cd calls
 ```
 
 ### 3. Install Dependencies
@@ -58,3 +58,6 @@ curl -X POST http://localhost:8000/make-outbound-call \
 -H "Content-Type: application/json" \
 -d '{"to": "+1234567890"}'
 ```
+
+
+Contact DAX +256772985659  +256702448951
